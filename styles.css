@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #ffd1dc; /* Fondo rosado pastel */
+  }
+  
+  h1 {
+    color: #800080; /* Texto morado */
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #f5f5dc; /* Fondo beige */
+    border: none;
+    color: #800080; /* Texto morado */
+  }
+  
+  #fakeSentence {
+    margin-top: 20px;
+    font-style: italic;
+    color: #800080; /* Texto morado */
+  }
+  
